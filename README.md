@@ -1,6 +1,8 @@
-# Dynamics of Specialization in Neural Modules under Ressource Constraints
+# Energy efficient multi-chip learning
 
 ## Introduction
+
+This is a forked repo from this paper: https://arxiv.org/abs/2106.02626. 
 
 A self-contained implementation of the code needed to create and train modular neural-networks, with varying levels of structural modularity, to reproduce results and findings from https://arxiv.org/abs/2106.02626.
 
